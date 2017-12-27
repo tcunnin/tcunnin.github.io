@@ -2,7 +2,7 @@
 body {background-color: red;
 }
 
-h1, p {color: yellow;
+h1, p, img {color: yellow;
 	font-size-adjust: 30px;
 	text-align: center;
 	font-family: Arial, sans-serif; 
