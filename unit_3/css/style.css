@@ -3,4 +3,6 @@ body {background-color: blue;
 }
 
 h1, p {color: yellow;
+	font-size-adjust: 14px;
+	text-align: center;
 }
