@@ -5,7 +5,7 @@ body {background-color: white;
 h1, p {color: black;
 	font-size-adjust: 40px;
 	text-align: center;
-	font-family: 'roboto', cursive; 
+	font-family: 'roboto'; 
 }
 .img-circle {
 	border-radius: 50%;
