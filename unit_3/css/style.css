@@ -7,7 +7,10 @@ h1, p {color: black;
 	text-align: center;
 	font-family: 'roboto'; 
 }
-.img-circle {
-	border-radius: 50%;
+img {
+	display: block;
+	margin: auto;
+	width: 40%;
 }
+
 
