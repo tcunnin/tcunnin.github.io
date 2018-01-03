@@ -1,10 +1,13 @@
 
 body {background-color: white;
 }
-@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
-h1, p {color: yellow;
+@import url(https://fonts.googleapis.com/css?family=roboto);
+h1, p {color: black;
 	font-size-adjust: 40px;
 	text-align: center;
-	font-family: 'Mystery Quest', cursive; 
+	font-family: 'roboto', cursive; 
+}
+.img-circle {
+	border-radius: 50%;
 }
 
