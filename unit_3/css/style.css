@@ -2,7 +2,12 @@
 body {background-color: white;
 }
 @import url(https://fonts.googleapis.com/css?family=roboto);
-h1, p, li, ul {color: black;
+h1, h2 {color: black;
+font-size-adjust: 45px;
+text-align: center;
+font-family: 'roboto', sans-serif;
+
+p, li, ul {color: black;
 	font-size-adjust: 30px;
 	line-height: 1.5em;
 	margin: 2em;
