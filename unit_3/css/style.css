@@ -12,5 +12,8 @@ img {
 	margin: auto;
 	width: 40%;
 }
+img {
+	background-image: url(download.jpg), url(image.jpg)
+}
 
 
