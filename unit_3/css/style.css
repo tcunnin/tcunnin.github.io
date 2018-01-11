@@ -1,12 +1,22 @@
 
-body {background-color: white;
+body {font-size: 18px;
 }
-@import url(https://fonts.googleapis.com/css?family=roboto);
 
 
 
-h1, h2, p, li, ul {color: black;
-	font-size-adjust: 30px;
+
+h1, h2 {
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+	font-family: 'roboto'; sans-serif
+}
+
+h1 {font-size: 2em;
+}
+
+}
+p, li, ul {
 	line-height: 1.5em;
 	margin: 2em;
 	text-align: center;
@@ -14,7 +24,7 @@ h1, h2, p, li, ul {color: black;
 }
 img {
 	display: block;
-	margin:0 auto;
+	margin:0 aut
 }
 footer {
 	text-align: center;
