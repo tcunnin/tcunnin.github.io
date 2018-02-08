@@ -1,2 +1,9 @@
 sytle.css
-p,h2 {font-family: Arial, sans-serif}
+body {
+	text-align: center;
+}
+p {font-family: Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+}
